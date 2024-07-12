@@ -1,0 +1,5 @@
+### ¿Por qué aparecen saldos de tokens aleatorios en mi billetera?
+
+No es raro que nuevos proyectos de criptomonedas lancen tokens a la comunidad. Esto se hace para atraer interés y distribuir ampliamente los tokens. Algunos proyectos lanzan tokens a usuarios seleccionados según criterios específicos, mientras que otros pueden enviarlos a cualquier persona con un saldo de Ethereum. Dado que todas las direcciones de Ethereum son públicas en la cadena de bloques, cualquiera puede enviar ETH o tokens a estas direcciones sin condiciones previas.
+
+Si bien algunos lanzamientos aéreos pueden ser valiosos (por ejemplo, Uniswap o lanzamientos aéreos de 1 pulgada), la mayoría de los tokens lanzados desde el aire no tienen valor y pueden ignorarse. Ocasionalmente, los tokens se lanzan desde el aire únicamente con fines de spam.
